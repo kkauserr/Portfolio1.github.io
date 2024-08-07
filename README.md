@@ -56,7 +56,7 @@ techniques to ensure interactive guessing functionality and efficient randomizat
 
 ### Sparky's Game: Fine Motor Skills for Paralytic Patients
 
--Conceived Sparky’s Game on Replit, housing motor skills-focused games tailored for individuals with paralysis.  
+- Conceived Sparky’s Game on Replit, housing motor skills-focused games tailored for individuals with paralysis.  
 Executed via p5js, harnessing inherent libraries for end-to-end game design encompassing theme creation, audio-visual feedback, 
 interactive components, progressive difficulty, and seamless keyboard-mouse controls.
 
