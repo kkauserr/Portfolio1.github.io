@@ -7,7 +7,6 @@ Expected Graduation: May 2026
 GPA: 3.88
 
 ## Skills
-
 * Programming Languages: Java, C, C++, HTML, CSS SQL, p5js, QBASIC, GWBASIC
 * Tools: Eclipse, Linux Operating System, Git, MATLAB, IntelliJ, Replit, MS Office, Adobe, WordPress, BlueJ
 
@@ -20,7 +19,7 @@ cohesion.
 
 #### Writing Tutor @ Academic Support Network (_Jan 2024 - Present_)
 
-**####Undergraduate Teaching Assistant @ Ira A. Fulton Schools of Engineering (_Aug 2023 - Dec 2023_)**
+#### Undergraduate Teaching Assistant @ Ira A. Fulton Schools of Engineering (_Aug 2023 - Dec 2023_)
 * Leading weekly lab sessions for a group of 40 students, which improved lab scores with many reporting increased
 comprehension and engagement during lab sessions.
 * Providing insightful information leading to the adoption of more interesting teaching methods and an overall
@@ -29,8 +28,11 @@ improvement in student learning outcomes by 30%.
 #### Tutor @ I-Learn Educational Institute Training and Development (_June 2021 - Aug 2021_)
 * Remedial Classes Tutor for 11th graders on the Basics of Computer science and Introduction to Java.
 
-####**Student Worker @ Aramark (Starbucks) (_Sept 2022 - Sept 2023_)**
-* Remedial Classes Tutor for 11th graders on the Basics of Computer science and Introduction to Java.
+#### Student Worker @ Aramark (Starbucks) (_Sept 2022 - Sept 2023_)
+* Recognized as "Employee of the Month" 2 times in recognition of exceptional performance, teamwork, and dedication
+to delivering top-tier service in a fast-paced environment.
+* Provided exceptional customer service and resolved customer complaints and issues promptly, resulting in a 47%
+decrease in customer dissatisfaction incidents.
 
 ## Projects
 #### stupid.os: File System
@@ -74,7 +76,7 @@ interactive components, progressive difficulty, and seamless keyboard-mouse cont
 * Reportedly, 90% of students experienced an increase in their GPA, thereby boosting the retention rate
 
 
-####**Barrett Summer Scholars (_May 2023 - July 2023_)**
+#### Barrett Summer Scholars (_May 2023 - July 2023_)
 
 * Supervised 5-day residential camps for high school students at ASU, facilitating classes and activities to enhance college
 readiness and encouraging post secondary education in Engineering.
