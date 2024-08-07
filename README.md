@@ -2,9 +2,9 @@
 
 ## Education
 Arizona State University, Tempe, AZ
--Bachelor’s in Computer Science (Honors), Minor in Business Expected Graduation
-Expected Graduation: May 2026
-GPA: 3.88
+* Bachelor’s in Computer Science (Honors), Minor in Business Expected Graduation
+> Expected Graduation: May 2026
+> GPA: 3.88
 
 ## Skills
 * Programming Languages: Java, C, C++, HTML, CSS SQL, p5js, QBASIC, GWBASIC
