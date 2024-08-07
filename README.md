@@ -6,12 +6,14 @@ Arizona State University, Tempe, AZ
 Expected Graduation: May 2026
 GPA: 3.88
 
-## Skills:
+## Skills
+
 -Programming Languages: Java, C, C++, HTML, CSS SQL, p5js, QBASIC, GWBASIC
 -Tools: Eclipse, Linux Operating System, Git, MATLAB, IntelliJ, Replit, MS Office, Adobe, WordPress, BlueJ
 
 ## Work Experience
 **Peer Outreach Coordinator @ School of Computing and Augmented Intelligence (_Nov 2023 - Present_)**
+
 -Achieved a 30% increase in program participation through targeted communication strategies.
 -Managed a 18-member volunteer team, coordinating events with a 95% task completion rate while improving team
 cohesion.
