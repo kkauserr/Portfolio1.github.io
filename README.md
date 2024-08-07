@@ -6,7 +6,7 @@ Arizona State University, Tempe, AZ
 Expected Graduation: May 2026
 GPA: 3.88
 
-#### Skills:
+## Skills:
 -Programming Languages: Java, C, C++, HTML, CSS SQL, p5js, QBASIC, GWBASIC
 -Tools: Eclipse, Linux Operating System, Git, MATLAB, IntelliJ, Replit, MS Office, Adobe, WordPress, BlueJ
 
