@@ -12,13 +12,13 @@ GPA: 3.88
 * Tools: Eclipse, Linux Operating System, Git, MATLAB, IntelliJ, Replit, MS Office, Adobe, WordPress, BlueJ
 
 ## Work Experience
-####**Peer Outreach Coordinator @ School of Computing and Augmented Intelligence (_Nov 2023 - Present_)**
+#### Peer Outreach Coordinator @ School of Computing and Augmented Intelligence (_Nov 2023 - Present_)
 
 * Achieved a 30% increase in program participation through targeted communication strategies.
 * Managed a 18-member volunteer team, coordinating events with a 95% task completion rate while improving team
 cohesion.
 
-####**Writing Tutor @ Academic Support Network (_Jan 2024 - Present_)**
+#### Writing Tutor @ Academic Support Network (_Jan 2024 - Present_)
 
 **####Undergraduate Teaching Assistant @ Ira A. Fulton Schools of Engineering (_Aug 2023 - Dec 2023_)**
 * Leading weekly lab sessions for a group of 40 students, which improved lab scores with many reporting increased
@@ -26,7 +26,7 @@ comprehension and engagement during lab sessions.
 * Providing insightful information leading to the adoption of more interesting teaching methods and an overall
 improvement in student learning outcomes by 30%.
 
-####**Tutor @ I-Learn Educational Institute Training and Development (_June 2021 - Aug 2021_)**
+#### Tutor @ I-Learn Educational Institute Training and Development (_June 2021 - Aug 2021_)
 * Remedial Classes Tutor for 11th graders on the Basics of Computer science and Introduction to Java.
 
 ####**Student Worker @ Aramark (Starbucks) (_Sept 2022 - Sept 2023_)**
@@ -63,12 +63,12 @@ techniques to ensure interactive guessing functionality and efficient randomizat
 interactive components, progressive difficulty, and seamless keyboard-mouse controls.
 
 ## Volunteer Experience
-#####**Fulton Ambassador (_Nov 2023 - Present_)**
+#### Fulton Ambassador (_Nov 2023 - Present_)
 
 * Spearheaded recruitment efforts that led to 20% increase in the number of participants of Fulton Ambassador program.
 * Organized and carried out 8 fruitful community service projects that benefited more than 200 people in the community.
 
-####**Barrett Peer Mentor (_Aug 2023 - Dec 2023_)**
+#### Barrett Peer Mentor (_Aug 2023 - Dec 2023_)
 
 * Representing the Barrett community and mentoring 13 freshmen in their transition to college.
 * Reportedly, 90% of students experienced an increase in their GPA, thereby boosting the retention rate
