@@ -20,7 +20,7 @@ cohesion.
 
 ####**Writing Tutor @ Academic Support Network (_Jan 2024 - Present_)**
 
-####**Undergraduate Teaching Assistant @ Ira A. Fulton Schools of Engineering (_Aug 2023 - Dec 2023_)**
+**####Undergraduate Teaching Assistant @ Ira A. Fulton Schools of Engineering (_Aug 2023 - Dec 2023_)**
 * Leading weekly lab sessions for a group of 40 students, which improved lab scores with many reporting increased
 comprehension and engagement during lab sessions.
 * Providing insightful information leading to the adoption of more interesting teaching methods and an overall
