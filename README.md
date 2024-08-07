@@ -59,7 +59,7 @@ techniques to ensure interactive guessing functionality and efficient randomizat
 #### Sparky's Game: Fine Motor Skills for Paralytic Patients
 
 * Conceived Sparky’s Game on Replit, housing motor skills-focused games tailored for individuals with paralysis.  
-Executed via p5js, harnessing inherent libraries for end-to-end game design encompassing theme creation, audio-visual feedback, 
+* Executed via p5js, harnessing inherent libraries for end-to-end game design encompassing theme creation, audio-visual feedback, 
 interactive components, progressive difficulty, and seamless keyboard-mouse controls.
 
 ## Volunteer Experience
@@ -76,5 +76,5 @@ interactive components, progressive difficulty, and seamless keyboard-mouse cont
 
 ####**Barrett Summer Scholars (_May 2023 - July 2023_)**
 
-- Supervised 5-day residential camps for high school students at ASU, facilitating classes and activities to enhance college
+* Supervised 5-day residential camps for high school students at ASU, facilitating classes and activities to enhance college
 readiness and encouraging post secondary education in Engineering.
